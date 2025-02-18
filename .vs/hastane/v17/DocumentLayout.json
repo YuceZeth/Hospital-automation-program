@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\hastane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D606F49D-8399-4FE4-9C7E-9C62321B9A83}|hastane.csproj|d:\\source\\repos\\hastane\\hastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D606F49D-8399-4FE4-9C7E-9C62321B9A83}|hastane.csproj|solutionrelative:hastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D606F49D-8399-4FE4-9C7E-9C62321B9A83}|hastane.csproj|d:\\source\\repos\\hastane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D606F49D-8399-4FE4-9C7E-9C62321B9A83}|hastane.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D606F49D-8399-4FE4-9C7E-9C62321B9A83}|hastane.csproj|d:\\source\\repos\\hastane\\doktorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D606F49D-8399-4FE4-9C7E-9C62321B9A83}|hastane.csproj|solutionrelative:doktorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D606F49D-8399-4FE4-9C7E-9C62321B9A83}|hastane.csproj|d:\\source\\repos\\hastane\\doktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D606F49D-8399-4FE4-9C7E-9C62321B9A83}|hastane.csproj|solutionrelative:doktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "doktorgiris.cs",
+              "DocumentMoniker": "D:\\source\\repos\\hastane\\doktorgiris.cs",
+              "RelativeDocumentMoniker": "doktorgiris.cs",
+              "ToolTip": "D:\\source\\repos\\hastane\\doktorgiris.cs",
+              "RelativeToolTip": "doktorgiris.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:57:20.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "doktorform.cs",
+              "DocumentMoniker": "D:\\source\\repos\\hastane\\doktorform.cs",
+              "RelativeDocumentMoniker": "doktorform.cs",
+              "ToolTip": "D:\\source\\repos\\hastane\\doktorform.cs",
+              "RelativeToolTip": "doktorform.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAwwFUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:18:38.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\source\\repos\\hastane\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\source\\repos\\hastane\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:15:33.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hastagiris.cs",
+              "DocumentMoniker": "D:\\source\\repos\\hastane\\hastagiris.cs",
+              "RelativeDocumentMoniker": "hastagiris.cs",
+              "ToolTip": "D:\\source\\repos\\hastane\\hastagiris.cs",
+              "RelativeToolTip": "hastagiris.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAApwPYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:15:42.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
